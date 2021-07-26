@@ -1,2 +1,9 @@
-# Electron
-electron 开发一些工具
+#### Electron-Vue
+
+```bash
+# 安装依赖
+yarn 
+
+yarn run dev
+yarn run test
+```
